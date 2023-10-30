@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kondy&#39;s portfolio</title>
+    <link>https://takak8101.github.io/</link>
+    <description>Recent content on kondy&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2023 10:49:38 +0900</lastBuildDate><atom:link href="https://takak8101.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Portfolio</title>
+      <link>https://takak8101.github.io/post/my-portfolio/</link>
+      <pubDate>Mon, 30 Oct 2023 10:49:38 +0900</pubDate>
+      
+      <guid>https://takak8101.github.io/post/my-portfolio/</guid>
+      <description>これはテストです。</description>
+    </item>
+    
+  </channel>
+</rss>

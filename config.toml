@@ -1,5 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://takak8101.github.io/'
 languageCode = 'en-us'
 title = "kondy's portfolio"
 
 theme = "beautifulhugo"
+
+publishDir = "docs"
