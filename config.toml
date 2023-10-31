@@ -1,16 +1,16 @@
 baseURL = 'https://takak8101.github.io/'
 languageCode = 'en-us'
-title = "kondy's portfolio"
+title = "kondy(sunflo_hn)"
 
 theme = "beautifulhugo"
 
 publishDir = "docs"
 
 [Params]
-  subtitle = "test"
-  # logo = "img/avatar-icon.png" # Expecting square dimensions
-  # favicon = "img/favicon.ico"
-  dateFormat = "October 31, 2023"
+  # subtitle = "test"
+  logo = "img/IMG_0248.jpg" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
   commit = false
   rss = false
   comments = true
@@ -23,20 +23,4 @@ publishDir = "docs"
 
 [Author]
   name = "kondy"
-  # github = "uzimihsr"
   twitter = "https://twitter.com/sunflo_hn"
-
-[[menu.main]]
-  name = "Blog"
-  url = ""
-  weight = 1
-
-[[menu.main]]
-  name = "Tags"
-  url = "tags"
-  weight = 2
-
-[[menu.main]]
-  name = "About"
-  url = "page/about/"
-  weight = 3
