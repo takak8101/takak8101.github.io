@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kondy&#39;s portfolio</title>
+    <title>kondy(sunflo_hn)</title>
     <link>https://takak8101.github.io/</link>
-    <description>Recent content on kondy&#39;s portfolio</description>
+    <description>Recent content on kondy(sunflo_hn)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Oct 2023 10:49:38 +0900</lastBuildDate><atom:link href="https://takak8101.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,19 @@
       <pubDate>Mon, 30 Oct 2023 10:49:38 +0900</pubDate>
       
       <guid>https://takak8101.github.io/post/my-portfolio/</guid>
-      <description>これはテストです。 後でポートフォリオを追加します。</description>
+      <description>&lt;h3 id=&#34;name&#34;&gt;Name&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;近藤 貴也 (Kondo Takaya)
+&lt;ul&gt;
+&lt;li&gt;昔は「こんちゃん」と呼ばれていましたが、大学に入ってからは
+「コンディー」と呼ばれています。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;birthday&#34;&gt;Birthday&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2000/10/18&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>
